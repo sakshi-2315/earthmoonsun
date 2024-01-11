@@ -15,9 +15,8 @@ This repository contains a simple and interactive web project that visually repr
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/solar-system-visualization.git`
-2. Open `try3.html` in your preferred web browser.
-3. Explore the solar system dynamics by interacting with the elements on the page.
+1. Open `try3.html` in your preferred web browser.
+2. Explore the solar system dynamics by interacting with the elements on the page.
 
 ## Demo
 
